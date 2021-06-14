@@ -1,0 +1,13 @@
+{
+    "name": "oriole",
+    "version": "1.0.0",
+    "description": "oriole web server node version",
+    "main": "app.js",
+    "author": "KimJeongJin",
+    "license": "(MIT OR GPL-3.0)",
+    "repository": {},
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-handlebars": "^3.0.2"
+    }
+}
